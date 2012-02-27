@@ -1,0 +1,6 @@
+build/
+*.xcodeproj/*
+!*.xocdeproj/project.pbxproj
+.DS_Store
+db.zip
+db/
